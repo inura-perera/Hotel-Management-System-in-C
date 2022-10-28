@@ -3,7 +3,7 @@ Basics of C language and file handling used to store data.
 
 AS2020409 is my index number at university do not mind it :) 
 
-For log in to the system use passwords below. 
+For log in to the system use the passwords below. 
 
 Manager passwords:  
 username: admin
