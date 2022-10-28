@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642722855 source:c:\users\inura\videos\as2020409\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
