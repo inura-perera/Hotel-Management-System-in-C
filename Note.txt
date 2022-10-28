@@ -1,0 +1,14 @@
+This is a simple project done by using C language and Codeblocks IDE. 
+Basics of C language and file handling used to store data.
+
+AS2020409 is my index number at university do not mind it :) 
+
+For log in to the system use passwords below. 
+
+Manager passwords:  
+username: admin
+password: 12345
+
+Receptionist Passwords :
+username: R001
+password: 12345
